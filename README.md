@@ -2,6 +2,8 @@
 
 ## Punto 2 🚀
 
+### Apartado B
+
 ¿Por qué es conveniente incluirlo?
 
 Evita archivos no deseados en el repositorio: Git rastrea todos los archivos en un directorio, lo que significa que incluso los archivos generados automáticamente o temporales pueden ser incluidos accidentalmente. El archivo .gitignore permite especificar archivos que Git debe ignorar, evitando que estos archivos se añadan al repositorio.
@@ -25,3 +27,9 @@ Crea un archivo llamado .gitignore en el directorio raíz de tu repositorio si a
 Abre el archivo .gitignore en un editor de texto.
 
 Agrega los patrones de archivos o directorios que deseas ignorar en líneas separadas. Puedes utilizar comodines (*) para especificar patrones de nombres de archivo.
+
+## Punto 3 🚀
+
+### Apartado C
+
+Están todos los archivos que creé y además el ejecutable que se creó al compilar el programa el cual me parece que no debería estar
