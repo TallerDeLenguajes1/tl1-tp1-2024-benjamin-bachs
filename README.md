@@ -33,3 +33,8 @@ Agrega los patrones de archivos o directorios que deseas ignorar en líneas sepa
 ### Apartado C
 
 Están todos los archivos que creé y además el ejecutable que se creó al compilar el programa el cual me parece que no debería estar
+
+### Apartado G
+
+Se debe a que el puntero almacena la dirección de memoria de la variable, por lo tanto lo que almacena el puntero es lo mismo que la dirección de la variable.
+En el punto 4 lo que obtengo es la dirección de memoria del puntero, seria un puntero doble o puntero de puntero.
